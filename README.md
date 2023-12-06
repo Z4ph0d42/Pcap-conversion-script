@@ -1,4 +1,4 @@
-# Pcap-conversion-script-
+# Pcap-conversion-script
 Converts pcap files to hc2200
 
 Like it says on the tin.
